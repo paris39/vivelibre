@@ -6,10 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ViveLibreSpringBootApplication {
 
-	public ViveLibreSpringBootApplication () {
-		// TODO Auto-generated constructor stub
-	}
-
 	/**
 	 * The main method.
 	 *

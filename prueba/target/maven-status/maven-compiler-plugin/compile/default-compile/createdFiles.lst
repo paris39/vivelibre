@@ -1,0 +1,11 @@
+es\vivelibre\prueba\ViveLibreSpringBootApplication.class
+es\vivelibre\prueba\config\AppConfig.class
+es\vivelibre\prueba\dto\BookDate.class
+es\vivelibre\prueba\controller\BookRestController.class
+es\vivelibre\prueba\controller\TokenRestController.class
+es\vivelibre\prueba\service\BookService.class
+es\vivelibre\prueba\service\impl\BookServiceImpl$1.class
+es\vivelibre\prueba\dto\Book.class
+es\vivelibre\prueba\dto\TokenResponse.class
+es\vivelibre\prueba\service\impl\BookServiceImpl.class
+es\vivelibre\prueba\dto\Author.class
